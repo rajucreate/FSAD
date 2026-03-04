@@ -1,3 +1,6 @@
 [submodule "FSAD-Skill-1"]
 	path = FSAD-Skill-1
 	url = https://github.com/rajucreate/FSAD-Skill-1
+[submodule "skill-2"]
+	path = skill-2
+	url = https://github.com/rajucreate/skill-2
