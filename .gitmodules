@@ -7,3 +7,6 @@
 [submodule "skill3"]
 	path = skill3
 	url = https://github.com/rajucreate/skill3
+[submodule "skill-4"]
+	path = skill-4
+	url = https://github.com/rajucreate/skill-4
